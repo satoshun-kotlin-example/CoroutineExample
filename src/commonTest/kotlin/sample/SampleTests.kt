@@ -22,6 +22,4 @@ class SampleTests {
     }
     println(10002)
   }
-
-
 }
